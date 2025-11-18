@@ -1,4 +1,5 @@
 AIM: Create an Android Application that includes Login and Registration screens using Jetpack Compose.
+Study: JetPack Compose Course
 
 <img width="320" height="720" alt="Screenshot 2025-11-18 095349" src="https://github.com/user-attachments/assets/96972cc6-1b62-4841-a721-2ca39c81511c" />
 
